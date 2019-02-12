@@ -1,0 +1,7 @@
+## US Treasury Yields and Equity Sectors(1999-2018)
+
+This app explores the changes in US Treasury Yields and SP500 Equity Sector Performance from 1999-2018.
+
+The purpose of this app is for the user to explore historical relationships between US Treasuries and Equities. This exploration can be done for sheer informational purposes, or to look for patterns or predictors in the data.
+
+Past performance is not indicative of future results.
